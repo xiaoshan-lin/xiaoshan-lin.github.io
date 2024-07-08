@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p><a href="https://cse.umn.edu/aem">Department of Aerospace Engineering and Mechanics, University of Minnesota, Twin Cities</a>
-           107 Akerman Hall, 110 Union St SE, Minneapolis, MN 55455</p>
+#subtitle: <p><a href="https://cse.umn.edu/aem">Department of Aerospace Engineering and Mechanics, University of Minnesota, Twin Cities</a>
+#           107 Akerman Hall, 110 Union St SE, Minneapolis, MN 55455</p>
 
 profile:
   align: right
@@ -17,11 +17,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Xiaoshan Lin, a PhD student majoring in Aerospace Engineering and Mechanics at the University of Minnesota, Twin Cities. 
+Hello! I’m Xiaoshan Lin, a **PhD student** majoring in <a href="https://cse.umn.edu/aem">Aerospace Engineering and Mechanics</a>
+at the **University of Minnesota, Twin Cities**.
 
-My research interests lie in 1) motion planning with energy-constrained heterogeneous multi-robot systems for 
-environmental monitoring; and 2) reinforcement learning with temporal logic specifications with a probabilistic 
-satisfaction guarantee.
+My research interests lie in
+- **Motion Planning**: 
+  - Developing solutions for energy-constrained heterogeneous multi-robot systems with a focus on environmental monitoring.
+- **Reinforcement Learning**:
+  - Exploring temporal logic specifications with a focus on achieving probabilistic satisfaction guarantees.
 
 In my spare time, I like cooking, hiking and playing with my cat.
 
