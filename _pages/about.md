@@ -1,25 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <p><a href="https://cse.umn.edu/aem">Department of Aerospace Engineering and Mechanics, University of Minnesota, Twin Cities</a>
+           107 Akerman Hall, 110 Union St SE, Minneapolis, MN 55455</p>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: XiaoshanLin.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm Xiaoshan Lin, a PhD student majoring in Aerospace Engineering and Mechanics at the University of Minnesota, Twin Cities. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in 1) motion planning with energy-constrained heterogeneous multi-robot systems for 
+environmental monitoring; and 2) reinforcement learning with temporal logic specifications with a probabilistic 
+satisfaction guarantee.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time, I like cooking, hiking and playing with my cat.
+
